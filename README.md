@@ -31,6 +31,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Snake Game
 * Maze Game
 * JavaScript Map
+* Zoom clone
 
 ### React JS
 
