@@ -48,6 +48,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 ### Generic Stack
 
 * Amazon Clone
+* flipkart clone
 
 ### LAMP Stack
 
