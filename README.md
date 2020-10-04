@@ -59,6 +59,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 
 * Simple Voting Dapp
 * Digital Land Registry System
+* Advance payment security system
 
 ### Python-Django
 
