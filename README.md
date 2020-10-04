@@ -32,6 +32,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Maze Game
 * JavaScript Map
 * Zoom clone
+* Tinder clone
 
 ### React JS
 
